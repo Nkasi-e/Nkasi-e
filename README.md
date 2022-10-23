@@ -42,7 +42,8 @@ You can click the Preview link to take a look at your changes.
  - :seedling: Exploring WEB 3 and the Blockchain ecosystem.
 - :zap: 💞️ In my free time, I play game and soccer, listen to music and solve problems.
 
-### - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/emmanuelnkasi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](emmanuelnkasi@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/nkasijr)
+### - :mailbox:How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/emmanuelnkasi) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](emmanuelnkasi@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/nkasijr)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
