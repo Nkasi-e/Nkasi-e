@@ -14,12 +14,12 @@
   </a>
 </div>
 <h1 align="center">
-  Hello there 👋
+  Hello there!! My name is Emmanuel Nkasi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h3 align="center">
-I'm Nkasi💞️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Welcome to my github repository <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-</div>
+</div> -->
 
 ### :man_technologist: About Me :
 
